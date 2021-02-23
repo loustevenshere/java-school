@@ -11,7 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @SpringBootApplication
 public class SchoolsApplication
 {
-
+// Main method to start the application
     /**
      * Main method to start the application.
      *
