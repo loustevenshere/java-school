@@ -20,7 +20,7 @@ public class CustomErrorDetails extends DefaultErrorAttributes
     // List of Validation errors
 
     @Autowired
-    HelperFunctions helperFunctions;
+    private HelperFunctions helperFunctions;
 
 
     @Override

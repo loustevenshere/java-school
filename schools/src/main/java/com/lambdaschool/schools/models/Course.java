@@ -15,6 +15,15 @@ import java.util.Set;
 public class Course
     extends Auditable
 {
+
+    // Custom swagger documentation
+    // @APIResponses
+    // @APIOperation
+
+    // Validation example
+    // @Size(min = 2, max = 50, message = "Course Name must be between 2 and 50 characters")
+
+    // Look up swagger documentation
     /**
      * Primary key (long) for this course
      */
